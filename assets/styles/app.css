@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+.vs__dropdown-menu {
+     border: 1pt solid gray !important;
+ }
+
+.vs__dropdown-toggle {
+    border: 1pt solid gray !important;
+}
+
+.vs__dropdown-option--highlight {
+    color: white !important;
+    background-color: #0897a9 !important;
+}
+
+.table {
+    font-size: 14px !important;
+}

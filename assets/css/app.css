@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}
+
+.vs__dropdown-menu {
+    border: 1pt solid gray !important;
+    z-index: 50000000 !important;
+}
+
+.vs__dropdown-toggle {
+    border: 1pt solid gray !important;
+}
+
+.vs__dropdown-option--highlight {
+    color: white !important;
+    background-color: #0897a9 !important;
+}
+
+.vs__dropdown-menu {
+    background-color: white !important;
+}
+
+.table {
+    font-size: 14px !important;
+}
+
+.urgent-picked {
+    border: 3px solid indianred;
+    background-color: red;
+}
